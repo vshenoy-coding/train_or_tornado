@@ -1,2 +1,10 @@
-# train_or_tornado
-Determining whether a sound that sounds like a freight train during a rain storm is really just a train
+## 🤖 AI Disclosure & Verification
+This project utilized **Microsoft Copilot** for code generation and logic assistance. 
+
+To ensure reliability, all generated code has been:
+* **Verified:** Manually reviewed for security and logic.
+* **Tested:** Executed in **Google Colab** environments to ensure error-free performance.
+
+---
+*Co-authored-by: GitHub Copilot <copilot@github.com>*
+*Tested-in: Google Colab*
